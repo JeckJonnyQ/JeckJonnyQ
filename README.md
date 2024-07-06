@@ -76,9 +76,23 @@
 * Belarusian - Native
 
 ---
+### My projects
+| Project | Deploy |
+|-------------|-------------|
+| Burger | [Burger-App](https://jeckjonnyq.github.io/Burger-Landing/) |
+| Rey Negro | [ReyNegro-App](https://jeckjonnyq.github.io/ReyNegro/) |
+| GreenShop | [GreenShop-App](https://rsschool-greenshop-app.netlify.app/) |
+| Coffee-House | [CoffeeHouse-App](https://rolling-scopes-school.github.io/jeckjonnyq-JSFE2023Q4/coffee-house/) |
+| Hangman | [HangMan-Game](https://rolling-scopes-school.github.io/jeckjonnyq-JSFE2023Q4/hangman/) |
+| Nonograms | [NonoGram-Game](https://rolling-scopes-school.github.io/jeckjonnyq-JSFE2023Q4/Nonograms/) |
+
+
+---
 
 ### My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeckJonnyQ&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+---
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/JeckJonnyQ/github-profile-views-counter">
