@@ -2,15 +2,15 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRhMTFkZmNhdzhyd2xhdm4yeHJ5dzN4ZWE2NDQzY3hoM2lpM2k2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp" width="300"/>
 </div>
 
-<h1 align="left">Hi, I'm <a href="https://github.com/JeckJonnyQ" target="_blank">Vladislav</a>
+<h1 align="left">Hi, I'm <a href="https://github.com/JeckJonnyQ" target="_blank">VLADISLAV</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="left">I am a Junior Front-End Developer from Minsk (Belarus). I believe that IT technologies are the present and the future, so I decided to join this community. Like to work in a team, I am always open to dialogue, discussion and ready to help.</h3>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=JeckJonnyQ&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=JeckJonnyQ&show_icons=true&count_private=true"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=JeckJonnyQ&show_icons=true&theme=vision-friendly-dark&hide_border=true"/></a>
    <a href="https://github.com/JeckJonnyQ/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeckJonnyQ&layout=compact"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeckJonnyQ&layout=compact&theme=vision-friendly-dark&hide_border=true"/></a>
 </p>
 
 <div id="badges" align='center'>
@@ -28,15 +28,57 @@
 ### Contacts
 ---
 * ***Location:*** Minsk, Belarus
-* ***Phone:*** +375 29 761-85-83
+* ***Phone:*** +375 29 848-67-06
 * ***Email:*** reut-2011@mail.ru
 * ***Additional Email:*** jeckandjonny@gmail.com
 * ***Telegram:*** [VladislavReut](https://t.me/JeckJonny)
 * ***GitHub:*** [VladislavReut](https://github.com/JeckJonnyQ)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" **alt="HTML5" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" **alt="CSS3" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" **alt="SASS" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" **alt="JS" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" **alt="TS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="WEBPACK" alt="WEBPACK" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="VITEJS" **alt="VITEJS" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="GIT" **alt="GIT" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" **alt="GITHUB" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MATUI" **alt="MATUI" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" **alt="VSCODE" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/replit/replit-original.svg" title="REPLIT" **alt="REPLIT" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="FIREBASE" alt="FIREBASE" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" **alt="FIGMA" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="CODEPEN" **alt="CODEPEN" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-plain-wordmark.svg" title="ESLINT" **alt="ESLINT" width="60" height="60"/>&nbsp;
+</div>
+
+---
+### Education
+
+* Hexlet Course Introduction to GIT (completed)
+* Website Development with HTML, CSS & JavaScript at IT Academy (completed)
+* Web Application Development with JavaScript at IT Academy (completed)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (completed)
+* RS Schools Course «JavaScript/Front-end. Stage 2» (completed)
+* RS Schools Course «React. Stage 3» (in progress)
+  
+---
+### Languages
+
+* English - B2
+* Russian - Native
+* Belarusian - Native
+
+---
+
+### My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JeckJonnyQ&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/JeckJonnyQ/github-profile-views-counter">
