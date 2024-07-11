@@ -65,8 +65,12 @@
 * Website Development with HTML, CSS & JavaScript at IT Academy (completed)
 * Web Application Development with JavaScript at IT Academy (completed)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (completed)
-* RS Schools Course «JavaScript/Front-end. Stage 2» (completed)
+* RS Schools Course «JavaScript/Front-end. Stage 2» (completed) <a href="https://app.rs.school/certificate/xc81cbjh">CERTIFICATE.</a>
 * RS Schools Course «React. Stage 3» (in progress)
+
+RS School :
+
+
   
 ---
 ### Languages
