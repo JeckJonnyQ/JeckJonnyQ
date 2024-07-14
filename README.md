@@ -6,8 +6,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="left">I am a Junior Front-End Developer from Minsk (Belarus). I believe that IT technologies are the present and the future, so I decided to join this community. Like to work in a team, I am always open to dialogue, discussion and ready to help.</h3>
 
-![codewars](https://www.codewars.com/users/VladislavReut/badges/large)
-
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=JeckJonnyQ&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=JeckJonnyQ&show_icons=true&theme=vision-friendly-dark&hide_border=true"/></a>
@@ -59,6 +57,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="CODEPEN" **alt="CODEPEN" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-plain-wordmark.svg" title="ESLINT" **alt="ESLINT" width="60" height="60"/>&nbsp;
 </div>
+
+![codewars](https://www.codewars.com/users/VladislavReut/badges/large)
 
 ---
 ### Education
