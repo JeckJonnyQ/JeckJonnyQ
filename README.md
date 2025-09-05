@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi, I'm <a href="https://github.com/JeckJonnyQ" target="_blank">VLADISLAV</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p align="left">I am a Front-End Developer from Minsk (Belarus). I believe that IT technologies are the present and the future, so I decided to join this community. Like to work in a team, I am always open to dialogue, discussion and ready to help.</h3>
+<p align="left">I'm a front-end specialist passionate for transforming intricate challenges into intuitive and dynamic user interfaces. With proven mastery in multiple frameworks like React and Angular, I excel at building sophisticated web applications that are both powerful and engaging.</h3>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=JeckJonnyQ&show_icons=true&count_private=true">
